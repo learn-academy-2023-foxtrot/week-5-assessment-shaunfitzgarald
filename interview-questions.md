@@ -10,9 +10,9 @@ Type your initials here to confirm you read the instructions:
 
 1. Why would super be used in a Ruby class?
 
-Your answer:
+Your answer: Super would be used in ruby to pass information from a superclass to the subclass.
 
-Researched answer:
+Researched answer: 
 
 2. What is a relational database? Are there other kinds of databases?
 
